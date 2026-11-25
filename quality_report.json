@@ -1,0 +1,3090 @@
+[
+  {
+    "gemeente": "'s-Gravenhage",
+    "buurten": 113,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 1,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "'s-Hertogenbosch",
+    "buurten": 108,
+    "unmatched_boundaries": [
+      [
+        "Rosmalen-Noord",
+        "t Ven"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Aa en Hunze",
+    "buurten": 52,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Aalsmeer",
+    "buurten": 9,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 4,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Aalten",
+    "buurten": 29,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 14,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Achtkarspelen",
+    "buurten": 24,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Alblasserdam",
+    "buurten": 29,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Albrandswaard",
+    "buurten": 26,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Alkmaar",
+    "buurten": 66,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Almelo",
+    "buurten": 71,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 61,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Almere",
+    "buurten": 223,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 41,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Alphen aan den Rijn",
+    "buurten": 100,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 292,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Alphen-Chaam",
+    "buurten": 19,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 6,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Altena",
+    "buurten": 63,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 4973,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Ameland",
+    "buurten": 7,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Amersfoort",
+    "buurten": 144,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 1,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Amstelveen",
+    "buurten": 47,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 37,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Amsterdam",
+    "buurten": 513,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Apeldoorn",
+    "buurten": 94,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Arnhem",
+    "buurten": 83,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Assen",
+    "buurten": 109,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Asten",
+    "buurten": 27,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 27,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Baarle-Nassau",
+    "buurten": 10,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 7,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Baarn",
+    "buurten": 21,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Barendrecht",
+    "buurten": 62,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Barneveld",
+    "buurten": 47,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Beek (L.)",
+    "buurten": 8,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Beekdaelen",
+    "buurten": 29,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 8,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Beesel",
+    "buurten": 8,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 49
+  },
+  {
+    "gemeente": "Berg en Dal",
+    "buurten": 41,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Bergeijk",
+    "buurten": 59,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Bergen (L.)",
+    "buurten": 16,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 12,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Bergen (NH.)",
+    "buurten": 36,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Bergen op Zoom",
+    "buurten": 37,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 17,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Berkelland",
+    "buurten": 72,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 30,
+    "suspect_simultaneous_electricity_hours": 15
+  },
+  {
+    "gemeente": "Bernheze",
+    "buurten": 53,
+    "unmatched_boundaries": [
+      [
+        "Kern Heesch",
+        "Broekhoek - Middelste Groes"
+      ],
+      [
+        "Kern Heesch",
+        "Monseigneur van Den Hurklaan"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Best",
+    "buurten": 19,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Beuningen",
+    "buurten": 43,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Beverwijk",
+    "buurten": 36,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Bladel",
+    "buurten": 25,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Blaricum",
+    "buurten": 8,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Bloemendaal",
+    "buurten": 22,
+    "unmatched_boundaries": [
+      [
+        "Wijk 04 Bennebroek",
+        "Vogelenzang Psychiatrisch Ziekenhuis"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Bodegraven-Reeuwijk",
+    "buurten": 54,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Boekel",
+    "buurten": 8,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Borger-Odoorn",
+    "buurten": 57,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Borne",
+    "buurten": 15,
+    "unmatched_boundaries": [
+      [
+        "Wijk 00 Borne",
+        "Lettersveld I"
+      ],
+      [
+        "Wijk 00 Borne",
+        "Lettersveld II"
+      ]
+    ],
+    "negative_gas_hours": 18,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Borsele",
+    "buurten": 32,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Boxtel",
+    "buurten": 19,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Breda",
+    "buurten": 56,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Bronckhorst",
+    "buurten": 45,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 11,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Brummen",
+    "buurten": 39,
+    "unmatched_boundaries": [
+      [
+        "Wijk 01 Empe",
+        "Verspreide huizen Empe"
+      ],
+      [
+        "Wijk 03 Brummen",
+        "Oeken kern"
+      ],
+      [
+        "Wijk 03 Brummen",
+        "Rhienderense Broek"
+      ],
+      [
+        "Wijk 03 Brummen",
+        "Verspreide huizen Brummen"
+      ],
+      [
+        "Wijk 03 Brummen",
+        "Verspreide huizen Oeken"
+      ],
+      [
+        "Wijk 03 Brummen",
+        "Verspreide huizen Rhienderen"
+      ],
+      [
+        "Wijk 04 Leuvenheim",
+        "Leuvenheim kern"
+      ],
+      [
+        "Wijk 04 Leuvenheim",
+        "Verspreide huizen Leuvenheim"
+      ],
+      [
+        "Wijk 05 Hall",
+        "Hall kern"
+      ],
+      [
+        "Wijk 05 Hall",
+        "Verspreide huizen Hall"
+      ],
+      [
+        "Wijk 06 Eerbeek",
+        "Eerbeek centrum"
+      ],
+      [
+        "Wijk 06 Eerbeek",
+        "Noorder Enk"
+      ],
+      [
+        "Wijk 06 Eerbeek",
+        "Verspreide huizen Eerbeek"
+      ]
+    ],
+    "negative_gas_hours": 5,
+    "suspect_simultaneous_electricity_hours": 16
+  },
+  {
+    "gemeente": "Brunssum",
+    "buurten": 45,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Bunnik",
+    "buurten": 8,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 18,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Bunschoten",
+    "buurten": 10,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Buren",
+    "buurten": 39,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 490,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Capelle aan den IJssel",
+    "buurten": 79,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 570,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Castricum",
+    "buurten": 19,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Coevorden",
+    "buurten": 68,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Cranendonck",
+    "buurten": 20,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Culemborg",
+    "buurten": 20,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Dalfsen",
+    "buurten": 36,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Dantumadiel",
+    "buurten": 17,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "De Bilt",
+    "buurten": 24,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 33,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "De Fryske Marren",
+    "buurten": 70,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "De Ronde Venen",
+    "buurten": 25,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "De Wolden",
+    "buurten": 40,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 127,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Delft",
+    "buurten": 90,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 280,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Den Helder",
+    "buurten": 64,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 10
+  },
+  {
+    "gemeente": "Deurne",
+    "buurten": 29,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 43,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Deventer",
+    "buurten": 69,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 77,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Diemen",
+    "buurten": 35,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Dijk en Waard",
+    "buurten": 69,
+    "unmatched_boundaries": [
+      [
+        "t Kruis",
+        "t Kruis"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Dinkelland",
+    "buurten": 46,
+    "unmatched_boundaries": [
+      [
+        "Wijk 16 Weerselo",
+        "’t Spikkert"
+      ]
+    ],
+    "negative_gas_hours": 14,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Doesburg",
+    "buurten": 11,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 5,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Doetinchem",
+    "buurten": 84,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 33,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Dongen",
+    "buurten": 17,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 13,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Dordrecht",
+    "buurten": 131,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 26
+  },
+  {
+    "gemeente": "Drechterland",
+    "buurten": 26,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 56,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Drimmelen",
+    "buurten": 38,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 99,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Dronten",
+    "buurten": 42,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 20,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Druten",
+    "buurten": 26,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Duiven",
+    "buurten": 14,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 6,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Echt-Susteren",
+    "buurten": 55,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Edam-Volendam",
+    "buurten": 29,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 3,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Ede",
+    "buurten": 71,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Eemnes",
+    "buurten": 9,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Eemsdelta",
+    "buurten": 92,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Eersel",
+    "buurten": 24,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Eijsden-Margraten",
+    "buurten": 34,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Eindhoven",
+    "buurten": 115,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Elburg",
+    "buurten": 22,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Emmen",
+    "buurten": 83,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Enkhuizen",
+    "buurten": 17,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 51,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Enschede",
+    "buurten": 70,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Epe",
+    "buurten": 29,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Ermelo",
+    "buurten": 20,
+    "unmatched_boundaries": [
+      [
+        "Buitengebied west",
+        "s Heerenloo"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Etten-Leur",
+    "buurten": 47,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Geertruidenberg",
+    "buurten": 11,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 28,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Geldrop-Mierlo",
+    "buurten": 14,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 6,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Gemert-Bakel",
+    "buurten": 24,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 4,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Gennep",
+    "buurten": 16,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 11,
+    "suspect_simultaneous_electricity_hours": 68
+  },
+  {
+    "gemeente": "Gilze en Rijen",
+    "buurten": 26,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 15,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Goeree-Overflakkee",
+    "buurten": 58,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 105,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Goes",
+    "buurten": 29,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Goirle",
+    "buurten": 30,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 21,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Gooise Meren",
+    "buurten": 55,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Gorinchem",
+    "buurten": 28,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Gouda",
+    "buurten": 51,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Groningen",
+    "buurten": 149,
+    "unmatched_boundaries": [
+      [
+        "Nieuw-West",
+        "Friesestraatweg"
+      ],
+      [
+        "Zuidoost",
+        "Eemskanaal"
+      ]
+    ],
+    "negative_gas_hours": 2303,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Gulpen-Wittem",
+    "buurten": 29,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Haaksbergen",
+    "buurten": 29,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Haarlem",
+    "buurten": 109,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Haarlemmermeer",
+    "buurten": 97,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 578,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Halderberge",
+    "buurten": 20,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 535,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Hardenberg",
+    "buurten": 73,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 17332,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Harderwijk",
+    "buurten": 61,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Hardinxveld-Giessendam",
+    "buurten": 24,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Harlingen",
+    "buurten": 12,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Hattem",
+    "buurten": 10,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Heemskerk",
+    "buurten": 35,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Heemstede",
+    "buurten": 14,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Heerde",
+    "buurten": 15,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Heerenveen",
+    "buurten": 31,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Heerlen",
+    "buurten": 57,
+    "unmatched_boundaries": [
+      [
+        "Wijk 21 Heerlerheide-Passart",
+        "Heerlerheide Kom"
+      ],
+      [
+        "Wijk 23 De Hei",
+        "Verspreide huizen"
+      ],
+      [
+        "Wijk 24 Rennemig-Beersdal",
+        "Groot Rennemig"
+      ],
+      [
+        "Wijk 39 Molenberg",
+        "Dr. Nolensplein en omgeving"
+      ],
+      [
+        "Wijk 39 Molenberg",
+        "Dr. Schaepmanplein en omgeving"
+      ],
+      [
+        "Wijk 41 Heerlerbaan-Schil",
+        "Giezenveld"
+      ],
+      [
+        "Wijk 42 De Beitel",
+        "Beitel"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Heeze-Leende",
+    "buurten": 12,
+    "unmatched_boundaries": [
+      [
+        "Wijk 00 Heeze",
+        "Bedrijventerrein De Poortmannen"
+      ],
+      [
+        "Wijk 00 Heeze",
+        "Heeze"
+      ],
+      [
+        "Wijk 00 Heeze",
+        "Verspreide huizen Heeze"
+      ],
+      [
+        "Wijk 01 Leende",
+        "Leende"
+      ],
+      [
+        "Wijk 01 Leende",
+        "Verspreide huizen Groote Heide"
+      ],
+      [
+        "Wijk 01 Leende",
+        "Verspreide huizen Zevenhuizense Heide"
+      ],
+      [
+        "Wijk 01 Leende",
+        "Villawijk Boschhoven"
+      ],
+      [
+        "Wijk 02 Leenderstrijp",
+        "Verspreide huizen Dijkse Heide"
+      ],
+      [
+        "Wijk 03 Sterksel",
+        "Verspreide huizen ten oosten van Sterksel"
+      ],
+      [
+        "Wijk 03 Sterksel",
+        "Verspreide huizen ten zuiden van Sterksel"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Heiloo",
+    "buurten": 20,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Hellendoorn",
+    "buurten": 39,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 44
+  },
+  {
+    "gemeente": "Helmond",
+    "buurten": 44,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 60,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Hendrik-Ido-Ambacht",
+    "buurten": 12,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Hengelo (O.)",
+    "buurten": 62,
+    "unmatched_boundaries": [
+      [
+        "Wijk 00 Binnenstad",
+        "Binnenstad-Centrum"
+      ],
+      [
+        "Wijk 00 Binnenstad",
+        "Binnenstad-Oost"
+      ],
+      [
+        "Wijk 00 Binnenstad",
+        "Binnenstad-West"
+      ],
+      [
+        "Wijk 01 Hengelose Es",
+        "Hengelose Es-Noord"
+      ],
+      [
+        "Wijk 04 Groot Driene",
+        "Groot Driene-Noord"
+      ],
+      [
+        "Wijk 04 Groot Driene",
+        "Groot Driene-Zuid"
+      ],
+      [
+        "Wijk 05 Berflo Es",
+        "Bedrijventerrein Twentekanaal-Noord II"
+      ],
+      [
+        "Wijk 05 Berflo Es",
+        "Bedrijventerrein Twentekanaal-Zuid II"
+      ],
+      [
+        "Wijk 05 Berflo Es",
+        "Veldwijk-Noord"
+      ],
+      [
+        "Wijk 05 Berflo Es",
+        "Veldwijk-Zuid"
+      ],
+      [
+        "Wijk 06 Wilderinkshoek",
+        "Bedrijventerrein Twentekanaal-Noord I"
+      ],
+      [
+        "Wijk 06 Wilderinkshoek",
+        "Bedrijventerrein Twentekanaal-Zuid I"
+      ],
+      [
+        "Wijk 06 Wilderinkshoek",
+        "Tuindorp-Zuid"
+      ],
+      [
+        "Wijk 07 Woolde",
+        "Bedrijvenpark Westermaat-Zuidoost"
+      ],
+      [
+        "Wijk 07 Woolde",
+        "Bedrijventerrein Westermaat-Noordoost"
+      ],
+      [
+        "Wijk 07 Woolde",
+        "Bedrijventerrein Westermaat-Noordwest"
+      ],
+      [
+        "Wijk 07 Woolde",
+        "Bedrijventerrein Westermaat-Zuidwest"
+      ],
+      [
+        "Wijk 08 Slangenbeek",
+        "Vossenbelt-Noord"
+      ],
+      [
+        "Wijk 08 Slangenbeek",
+        "Vossenbelt-Zuid"
+      ],
+      [
+        "Wijk 09 Buitengebied",
+        "Beckum kern"
+      ],
+      [
+        "Wijk 09 Buitengebied",
+        "Stadspark Weusthag-Noord"
+      ],
+      [
+        "Wijk 09 Buitengebied",
+        "Stadspark Weusthag-Zuid"
+      ]
+    ],
+    "negative_gas_hours": 15,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Het Hogeland",
+    "buurten": 63,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Heumen",
+    "buurten": 19,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Heusden",
+    "buurten": 17,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 406,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Hillegom",
+    "buurten": 21,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Hilvarenbeek",
+    "buurten": 11,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Hilversum",
+    "buurten": 43,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Hoeksche Waard",
+    "buurten": 41,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Hof van Twente",
+    "buurten": 48,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 21,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Hollands Kroon",
+    "buurten": 67,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 90,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Hoogeveen",
+    "buurten": 48,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Hoorn",
+    "buurten": 74,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 258,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Horst aan de Maas",
+    "buurten": 48,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 34,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Houten",
+    "buurten": 58,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Huizen",
+    "buurten": 30,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Hulst",
+    "buurten": 48,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "IJsselstein",
+    "buurten": 31,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Kaag en Braassem",
+    "buurten": 27,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Kampen",
+    "buurten": 36,
+    "unmatched_boundaries": [
+      [
+        "s-Heerenbroek",
+        "s-Heerenbroek"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Kapelle",
+    "buurten": 6,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 243,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Katwijk",
+    "buurten": 42,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Kerkrade",
+    "buurten": 18,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Koggenland",
+    "buurten": 59,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 88,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Krimpen aan den IJssel",
+    "buurten": 6,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Krimpenerwaard",
+    "buurten": 68,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Laarbeek",
+    "buurten": 15,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Land van Cuijk",
+    "buurten": 101,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 59,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Landgraaf",
+    "buurten": 27,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Landsmeer",
+    "buurten": 10,
+    "unmatched_boundaries": [
+      [
+        "Landsmeer",
+        "t Lint"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Lansingerland",
+    "buurten": 60,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 5275,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Laren (NH.)",
+    "buurten": 10,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Leeuwarden",
+    "buurten": 131,
+    "unmatched_boundaries": [
+      [
+        "Middelsee",
+        "Middelsee"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Leiden",
+    "buurten": 54,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Leiderdorp",
+    "buurten": 20,
+    "unmatched_boundaries": [
+      [
+        "Wijk 01",
+        "t Heerlijk Recht"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Leidschendam-Voorburg",
+    "buurten": 43,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Lelystad",
+    "buurten": 126,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 34,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Leudal",
+    "buurten": 32,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Leusden",
+    "buurten": 28,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Lingewaard",
+    "buurten": 42,
+    "unmatched_boundaries": [
+      [
+        "Huissen",
+        "t Kempke-Bloemstraat"
+      ],
+      [
+        "Huissen",
+        "t Zand-Tabakshof"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Lisse",
+    "buurten": 22,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Lochem",
+    "buurten": 36,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 16,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Loon op Zand",
+    "buurten": 32,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 25,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Lopik",
+    "buurten": 14,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Losser",
+    "buurten": 13,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 17,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Maasdriel",
+    "buurten": 24,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 268,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Maasgouw",
+    "buurten": 16,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Maashorst",
+    "buurten": 39,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Maassluis",
+    "buurten": 19,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 144,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Maastricht",
+    "buurten": 44,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Medemblik",
+    "buurten": 61,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 203,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Meerssen",
+    "buurten": 14,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Meierijstad",
+    "buurten": 93,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Meppel",
+    "buurten": 46,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Middelburg (Z.)",
+    "buurten": 70,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Midden-Delfland",
+    "buurten": 13,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 1188,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Midden-Drenthe",
+    "buurten": 48,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Midden-Groningen",
+    "buurten": 87,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Moerdijk",
+    "buurten": 39,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 664,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Molenlanden",
+    "buurten": 109,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Montferland",
+    "buurten": 27,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 11,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Montfoort",
+    "buurten": 12,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Mook en Middelaar",
+    "buurten": 5,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 4,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Neder-Betuwe",
+    "buurten": 18,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 146
+  },
+  {
+    "gemeente": "Nederweert",
+    "buurten": 15,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 7,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Nieuwegein",
+    "buurten": 39,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Nieuwkoop",
+    "buurten": 37,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Nijkerk",
+    "buurten": 33,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 156,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Nijmegen",
+    "buurten": 44,
+    "unmatched_boundaries": [
+      [
+        "Lindenholt",
+        "t Acker"
+      ],
+      [
+        "Lindenholt",
+        "t Broek"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Nissewaard",
+    "buurten": 89,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 592,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Noardeast-Fryslân",
+    "buurten": 97,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Noord-Beveland",
+    "buurten": 14,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Noordenveld",
+    "buurten": 35,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 309,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Noordoostpolder",
+    "buurten": 48,
+    "unmatched_boundaries": [
+      [
+        "Wijk 05 Kraggenburg",
+        "Kraggenburg-bedrijventerrein"
+      ]
+    ],
+    "negative_gas_hours": 407,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Noordwijk",
+    "buurten": 44,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Nuenen, Gerwen en Nederwetten",
+    "buurten": 10,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Nunspeet",
+    "buurten": 14,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 147
+  },
+  {
+    "gemeente": "Oegstgeest",
+    "buurten": 15,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Oirschot",
+    "buurten": 15,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Oisterwijk",
+    "buurten": 35,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 17,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Oldambt",
+    "buurten": 50,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Oldebroek",
+    "buurten": 25,
+    "unmatched_boundaries": [
+      [
+        "Wijk 02 Oosterwolde",
+        "Verspreide huizen Oosterwolde"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Oldenzaal",
+    "buurten": 14,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 9446,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Olst-Wijhe",
+    "buurten": 23,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Ommen",
+    "buurten": 46,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Oost Gelre",
+    "buurten": 41,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 18,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Oosterhout",
+    "buurten": 44,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 105,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Ooststellingwerf",
+    "buurten": 59,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 162,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Oostzaan",
+    "buurten": 4,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Opmeer",
+    "buurten": 45,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 128,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Opsterland",
+    "buurten": 50,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 179,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Oss",
+    "buurten": 102,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Oude IJsselstreek",
+    "buurten": 32,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 11,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Ouder-Amstel",
+    "buurten": 7,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 221,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Oudewater",
+    "buurten": 18,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Overbetuwe",
+    "buurten": 89,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Papendrecht",
+    "buurten": 30,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Peel en Maas",
+    "buurten": 53,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 28,
+    "suspect_simultaneous_electricity_hours": 2
+  },
+  {
+    "gemeente": "Pekela",
+    "buurten": 5,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Pijnacker-Nootdorp",
+    "buurten": 32,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 100,
+    "suspect_simultaneous_electricity_hours": 27
+  },
+  {
+    "gemeente": "Purmerend",
+    "buurten": 31,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Putten",
+    "buurten": 13,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Raalte",
+    "buurten": 38,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Reimerswaal",
+    "buurten": 28,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 4840,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Renkum",
+    "buurten": 53,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Renswoude",
+    "buurten": 2,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Reusel-De Mierden",
+    "buurten": 11,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Rheden",
+    "buurten": 23,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 5,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Rhenen",
+    "buurten": 30,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Ridderkerk",
+    "buurten": 12,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Rijssen-Holten",
+    "buurten": 46,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Rijswijk (ZH.)",
+    "buurten": 32,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Roerdalen",
+    "buurten": 24,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Roermond",
+    "buurten": 36,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Roosendaal",
+    "buurten": 55,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 3827,
+    "suspect_simultaneous_electricity_hours": 5
+  },
+  {
+    "gemeente": "Rotterdam",
+    "buurten": 91,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 2886,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Rozendaal",
+    "buurten": 2,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 1,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Rucphen",
+    "buurten": 11,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Schagen",
+    "buurten": 77,
+    "unmatched_boundaries": [
+      [
+        "Schagerbrug",
+        "t Buurtje en Buitengebied"
+      ],
+      [
+        "Sint Maarten",
+        "t Rijpje en Buitengebied"
+      ],
+      [
+        "t Zand",
+        "t Zand-Noordoost"
+      ],
+      [
+        "t Zand",
+        "t Zand-West- en -Zuid"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Scherpenzeel",
+    "buurten": 3,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Schiedam",
+    "buurten": 70,
+    "unmatched_boundaries": [
+      [
+        "Wijk 08 Industrie",
+        "s-Graveland"
+      ]
+    ],
+    "negative_gas_hours": 12705,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Schiermonnikoog",
+    "buurten": 2,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Schouwen-Duiveland",
+    "buurten": 51,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Simpelveld",
+    "buurten": 9,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Sint-Michielsgestel",
+    "buurten": 23,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Sittard-Geleen",
+    "buurten": 37,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Sliedrecht",
+    "buurten": 32,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Sluis",
+    "buurten": 35,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Smallingerland",
+    "buurten": 61,
+    "unmatched_boundaries": [
+      [
+        "Drachtstervaart",
+        "Drachstervaart oost"
+      ],
+      [
+        "Drachtstervaart",
+        "Drachstervaart west"
+      ]
+    ],
+    "negative_gas_hours": 287,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Soest",
+    "buurten": 29,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Someren",
+    "buurten": 33,
+    "unmatched_boundaries": [
+      [
+        "Buitengebied Someren",
+        "t Ven"
+      ],
+      [
+        "Someren-Eind dorp",
+        "t Vaartje"
+      ]
+    ],
+    "negative_gas_hours": 33,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Son en Breugel",
+    "buurten": 8,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Stadskanaal",
+    "buurten": 27,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Staphorst",
+    "buurten": 25,
+    "unmatched_boundaries": [
+      [
+        "Wijk 00 Staphorst (kern)",
+        "Industrieterrein Staphorst"
+      ],
+      [
+        "Wijk 00 Staphorst (kern)",
+        "Staphorst plan-Oost"
+      ],
+      [
+        "Wijk 00 Staphorst (kern)",
+        "Staphorst plan-West"
+      ],
+      [
+        "Wijk 02 Rouveen (buitengebied)",
+        "Verspreide huizen Geerenland"
+      ],
+      [
+        "Wijk 02 Rouveen (buitengebied)",
+        "Verspreide huizen Oldmaten"
+      ],
+      [
+        "Wijk 03 Staphorst (buitengebied)",
+        "Verspreide huizen Berger Achthoven en omgeving"
+      ],
+      [
+        "Wijk 07 Klooster",
+        "Verspreide huizen Zwartewatersklooster en Holtrust"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Stede Broec",
+    "buurten": 26,
+    "unmatched_boundaries": [
+      [
+        "Stede Broec Noord",
+        "Oud Bovenkarpel"
+      ]
+    ],
+    "negative_gas_hours": 74,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Steenbergen",
+    "buurten": 18,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 933,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Steenwijkerland",
+    "buurten": 92,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 6,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Stein (L.)",
+    "buurten": 13,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Stichtse Vecht",
+    "buurten": 92,
+    "unmatched_boundaries": [
+      [
+        "Wijk 10 Loenersloot",
+        "Poldergebied Loenersloot"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Súdwest-Fryslân",
+    "buurten": 154,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 394,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Terneuzen",
+    "buurten": 41,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Terschelling",
+    "buurten": 15,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Texel",
+    "buurten": 13,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Teylingen",
+    "buurten": 51,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Tholen",
+    "buurten": 17,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 133,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Tiel",
+    "buurten": 30,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Tilburg",
+    "buurten": 251,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 124,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Tubbergen",
+    "buurten": 29,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 16,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Twenterand",
+    "buurten": 27,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 55386,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Tynaarlo",
+    "buurten": 45,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Tytsjerksteradiel",
+    "buurten": 31,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Uitgeest",
+    "buurten": 6,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Uithoorn",
+    "buurten": 11,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 7,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Urk",
+    "buurten": 10,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 131,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Utrecht",
+    "buurten": 111,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 2
+  },
+  {
+    "gemeente": "Utrechtse Heuvelrug",
+    "buurten": 33,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 53,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Vaals",
+    "buurten": 9,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Valkenburg aan de Geul",
+    "buurten": 30,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Valkenswaard",
+    "buurten": 20,
+    "unmatched_boundaries": [
+      [
+        "Wijk 00 Valkenswaard",
+        "Verspreide huizen Turfbergse Heide Nederheide"
+      ],
+      [
+        "Wijk 01 Kloosterakkers en Dommelen",
+        "De Belleman"
+      ],
+      [
+        "Wijk 01 Kloosterakkers en Dommelen",
+        "Dommelen"
+      ],
+      [
+        "Wijk 01 Kloosterakkers en Dommelen",
+        "Keersop"
+      ],
+      [
+        "Wijk 02 Borkel en Schaft",
+        "Borkel"
+      ],
+      [
+        "Wijk 02 Borkel en Schaft",
+        "Schaft"
+      ],
+      [
+        "Wijk 02 Borkel en Schaft",
+        "Verspreide huizen Klein Borkel en Achterste Brug"
+      ],
+      [
+        "Wijk 02 Borkel en Schaft",
+        "Verspreide huizen Malpiebergse- en Opperheide"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Veendam",
+    "buurten": 17,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Veenendaal",
+    "buurten": 38,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Veere",
+    "buurten": 38,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Veldhoven",
+    "buurten": 17,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Velsen",
+    "buurten": 63,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Venlo",
+    "buurten": 112,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 8,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Venray",
+    "buurten": 32,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 27,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Vijfheerenlanden",
+    "buurten": 88,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Vlaardingen",
+    "buurten": 40,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 73,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Vlieland",
+    "buurten": 2,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Vlissingen",
+    "buurten": 42,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Voerendaal",
+    "buurten": 16,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 43,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Voorne aan Zee",
+    "buurten": 70,
+    "unmatched_boundaries": [
+      [
+        "Nieuwenhoorn",
+        "t Lange Land"
+      ]
+    ],
+    "negative_gas_hours": 215,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Voorschoten",
+    "buurten": 12,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Voorst",
+    "buurten": 31,
+    "unmatched_boundaries": [
+      [
+        "Wijk 00 Voorst",
+        "Bussloo"
+      ],
+      [
+        "Wijk 00 Voorst",
+        "Gietelo"
+      ],
+      [
+        "Wijk 00 Voorst",
+        "Verspreide huizen Appensche Veld"
+      ],
+      [
+        "Wijk 00 Voorst",
+        "Verspreide huizen Gietelo-Bussloo"
+      ],
+      [
+        "Wijk 00 Voorst",
+        "Verspreide huizen Voorst en Wilpse Klei"
+      ],
+      [
+        "Wijk 00 Voorst",
+        "Verspreide huizen akkerbouwgebied Noord-Empe"
+      ],
+      [
+        "Wijk 00 Voorst",
+        "Verspreide huizen langs de IJssel Voorster Klei"
+      ],
+      [
+        "Wijk 00 Voorst",
+        "Voorst"
+      ],
+      [
+        "Wijk 01 Twello-Nijbroek",
+        "Nijbroek"
+      ],
+      [
+        "Wijk 01 Twello-Nijbroek",
+        "Terwolde"
+      ],
+      [
+        "Wijk 01 Twello-Nijbroek",
+        "Twello-Midden"
+      ],
+      [
+        "Wijk 01 Twello-Nijbroek",
+        "Twello-Noord"
+      ],
+      [
+        "Wijk 01 Twello-Nijbroek",
+        "Twello-Zuid"
+      ],
+      [
+        "Wijk 01 Twello-Nijbroek",
+        "Verspreide huizen Nijbroek"
+      ],
+      [
+        "Wijk 01 Twello-Nijbroek",
+        "Verspreide huizen Twello-Noord"
+      ],
+      [
+        "Wijk 01 Twello-Nijbroek",
+        "Verspreide huizen Twello-Zuid"
+      ],
+      [
+        "Wijk 01 Twello-Nijbroek",
+        "Verspreide huizen op de oeverwal Terwolde"
+      ],
+      [
+        "Wijk 02 Klarenbeek-Teuge",
+        "De Vecht"
+      ],
+      [
+        "Wijk 02 Klarenbeek-Teuge",
+        "Klarenbeek (gedeeltelijk)"
+      ],
+      [
+        "Wijk 02 Klarenbeek-Teuge",
+        "Teuge"
+      ],
+      [
+        "Wijk 02 Klarenbeek-Teuge",
+        "Verspreide huizen De Vecht, De Pol en omgeving"
+      ],
+      [
+        "Wijk 02 Klarenbeek-Teuge",
+        "Verspreide huizen Klarenbeek-Noord"
+      ],
+      [
+        "Wijk 02 Klarenbeek-Teuge",
+        "Verspreide huizen Klarenbeek-Zuid"
+      ],
+      [
+        "Wijk 02 Klarenbeek-Teuge",
+        "Verspreide huizen Teuge"
+      ],
+      [
+        "Wijk 02 Klarenbeek-Teuge",
+        "Verspreide huizen Wilp-Achterhoek"
+      ],
+      [
+        "Wijk 02 Klarenbeek-Teuge",
+        "Wilp-Achterhoek"
+      ],
+      [
+        "Wijk 03 Wilp",
+        "Posterenk"
+      ],
+      [
+        "Wijk 03 Wilp",
+        "Verspreide huizen Wilp en Posterenk"
+      ],
+      [
+        "Wijk 03 Wilp",
+        "Verspreide huizen op de Wilpse Klei"
+      ],
+      [
+        "Wijk 03 Wilp",
+        "Wilp"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Vught",
+    "buurten": 23,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 17,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Waadhoeke",
+    "buurten": 102,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Waalre",
+    "buurten": 5,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Waalwijk",
+    "buurten": 23,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 20,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Waddinxveen",
+    "buurten": 22,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 888,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Wageningen",
+    "buurten": 33,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Wassenaar",
+    "buurten": 21,
+    "unmatched_boundaries": [
+      [
+        "Wijk 00 Zuidwestelijk deel der gemeente",
+        "Duindigt met Groenendaal"
+      ],
+      [
+        "Wijk 00 Zuidwestelijk deel der gemeente",
+        "Verspreide huizen Eikenhorst"
+      ],
+      [
+        "Wijk 00 Zuidwestelijk deel der gemeente",
+        "Verspreide huizen Meijendel"
+      ],
+      [
+        "Wijk 01 Noordoostelijk deel der gemeente",
+        "De Deijl"
+      ],
+      [
+        "Wijk 01 Noordoostelijk deel der gemeente",
+        "Groot Deijleroord en Ter Weer"
+      ],
+      [
+        "Wijk 01 Noordoostelijk deel der gemeente",
+        "Rijksdorp met De Pan"
+      ],
+      [
+        "Wijk 01 Noordoostelijk deel der gemeente",
+        "Verspreide huizen Duinrell Wassenaarse Slag"
+      ],
+      [
+        "Wijk 01 Noordoostelijk deel der gemeente",
+        "Verspreide huizen Raaphorst en in poldergebied"
+      ],
+      [
+        "Wijk 01 Noordoostelijk deel der gemeente",
+        "Zijlwatering en haven"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Waterland",
+    "buurten": 19,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Weert",
+    "buurten": 38,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 1,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "West Betuwe",
+    "buurten": 66,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "West Maas en Waal",
+    "buurten": 16,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Westerkwartier",
+    "buurten": 80,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Westerveld",
+    "buurten": 45,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Westervoort",
+    "buurten": 6,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 4,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Westerwolde",
+    "buurten": 59,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Westland",
+    "buurten": 77,
+    "unmatched_boundaries": [
+      [
+        "Wijk 04 's-Gravenzande",
+        "s-Gravenzande Buitengebied"
+      ]
+    ],
+    "negative_gas_hours": 8797,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Weststellingwerf",
+    "buurten": 64,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Wierden",
+    "buurten": 28,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 7,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Wijchen",
+    "buurten": 60,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Wijdemeren",
+    "buurten": 17,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Wijk bij Duurstede",
+    "buurten": 18,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Winterswijk",
+    "buurten": 17,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 6,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Woensdrecht",
+    "buurten": 16,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Woerden",
+    "buurten": 31,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Wormerland",
+    "buurten": 14,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Woudenberg",
+    "buurten": 12,
+    "unmatched_boundaries": [
+      [
+        "Wijk 00 Woudenberg",
+        "Woudenberg-Oost"
+      ]
+    ],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Zaanstad",
+    "buurten": 77,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Zaltbommel",
+    "buurten": 27,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 838,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Zandvoort",
+    "buurten": 19,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Zeewolde",
+    "buurten": 11,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 4,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Zeist",
+    "buurten": 35,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 67,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Zevenaar",
+    "buurten": 40,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 18,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Zoetermeer",
+    "buurten": 26,
+    "unmatched_boundaries": [
+      [
+        "Buitengebied",
+        "Buitengebied-West"
+      ],
+      [
+        "Buitengebied",
+        "Meerpolder"
+      ],
+      [
+        "Buitengebied",
+        "Scheidingszone"
+      ],
+      [
+        "Buitengebied",
+        "Westerpark c.a."
+      ],
+      [
+        "Buytenwegh de Leyens",
+        "Buytenwegh"
+      ],
+      [
+        "Buytenwegh de Leyens",
+        "De Leyens"
+      ],
+      [
+        "Centrum",
+        "Dorp"
+      ],
+      [
+        "Centrum",
+        "Driemanspolder"
+      ],
+      [
+        "Centrum",
+        "Palenstein"
+      ],
+      [
+        "Centrum",
+        "Stadscentrum"
+      ],
+      [
+        "Industriegebied",
+        "Hoornerhage c.a."
+      ],
+      [
+        "Industriegebied",
+        "Lansinghage c.a."
+      ],
+      [
+        "Industriegebied",
+        "Rokkehage c.a."
+      ],
+      [
+        "Industriegebied",
+        "Zoeterhage c.a."
+      ],
+      [
+        "Meerzicht",
+        "Meerzicht-Oost"
+      ],
+      [
+        "Meerzicht",
+        "Meerzicht-West"
+      ],
+      [
+        "Noordhove",
+        "Noordhove-Oost"
+      ],
+      [
+        "Noordhove",
+        "Noordhove-West"
+      ],
+      [
+        "Oosterheem",
+        "Oosterheem-Noord-Oost"
+      ],
+      [
+        "Oosterheem",
+        "Oosterheem-Zuid-West"
+      ],
+      [
+        "Rokkeveen",
+        "Rokkeveen-Oost"
+      ],
+      [
+        "Rokkeveen",
+        "Rokkeveen-West"
+      ],
+      [
+        "Seghwaert",
+        "Seghwaert-Noord-Oost"
+      ],
+      [
+        "Seghwaert",
+        "Seghwaert-Zuid-West"
+      ]
+    ],
+    "negative_gas_hours": 59,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Zoeterwoude",
+    "buurten": 20,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Zuidplas",
+    "buurten": 52,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 2833,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Zundert",
+    "buurten": 11,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Zutphen",
+    "buurten": 31,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 26,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Zwartewaterland",
+    "buurten": 34,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Zwijndrecht",
+    "buurten": 90,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  },
+  {
+    "gemeente": "Zwolle",
+    "buurten": 78,
+    "unmatched_boundaries": [],
+    "negative_gas_hours": 0,
+    "suspect_simultaneous_electricity_hours": 0
+  }
+]
